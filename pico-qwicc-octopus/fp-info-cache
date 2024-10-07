@@ -1,4 +1,4 @@
-24681457196963414
+24684913779750358
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63350,6 +63350,13 @@ THT
 4
 2
 Ivan Hawkes
+CONN4_BM04B-SRSS_JST
+
+BM04B-SRSS-TB 
+0
+6
+6
+Ivan Hawkes
 CONN_B2B-XH-A_JST
 
 B2B-XH-A 
@@ -63384,6 +63391,13 @@ Potentiometer Carrier Board 24mm
 0
 10
 5
+Ivan Hawkes
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
