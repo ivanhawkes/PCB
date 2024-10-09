@@ -216,7 +216,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|889000|431800|1cc2dcfc-f998-486d-bdda-0e4b06244d6c|2ffb698f-315e-494e-ad40-a60fd649a498|/b1407f3a-ed9a-424a-bb71-b569c1353117|/b1407f3a-ed9a-424a-bb71-b569c1353117|/b1407f3a-ed9a-424a-bb71-b569c1353117"
+    ],
     "meta": {
       "version": 0
     },
@@ -463,6 +465,18 @@
       {
         "netclass": "Default",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/RX"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/SDA"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/SCL"
       }
     ]
   },
@@ -532,11 +546,23 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

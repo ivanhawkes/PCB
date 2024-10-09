@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pico-quicc-octopus")(type "KiCad")(uri "${KIPRJMOD}/pico-quicc-octopus.kicad_sym")(options "")(descr ""))
+)
