@@ -1,4 +1,4 @@
-23935426400990430
+23938884364913359
 00_Connectors
 JST-B2B-XH-A
 
@@ -35,6 +35,13 @@ BM04B-SRSS-TB
 6
 6
 00_Connectors
+Screw-2P-5.08-1729128
+
+
+0
+2
+2
+00_Connectors
 Screw-8P-5.08-1729186
 1729186
 Connector
@@ -69,6 +76,13 @@ Through hole pin header THT 2x20 2.54mm double row
 0
 86
 43
+00_General
+SOP254P980X300-6N
+418121160803
+Switch
+0
+6
+6
 00_Logos
 Sparkfun - Qwiic - 3mm
 
