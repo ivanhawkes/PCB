@@ -1534,7 +1534,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100pf"
 			(at 97.409 77.47 90)
 			(effects
 				(font
