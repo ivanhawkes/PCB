@@ -608,261 +608,6 @@
 				)
 			)
 		)
-		(symbol "00_Connectors:Screw-2P-5.08-1729128"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -2.54 3.302 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "Screw-2P-5.08-1729128"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "00_Connectors:Screw-2P-5.08-1729128"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Phoenix Contact"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "10.15mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "28.07.2023"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "1729128"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=555380&manufacturer=Phoenix Contact&part_name=1729128&search_term=1729128"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "\nPCB Terminal Screw 5.08mm 16AWG 400V 13.5A 2 Position COMBICON MKDSN Series | Phoenix Contact 1729128\n"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Phoenix Contact"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "Screw-2P-5.08-1729128_0_0"
-				(rectangle
-					(start -3.81 -5.08)
-					(end 5.08 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(circle
-					(center -1.905 -2.54)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.905 0)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "00_Connectors:Screw-8P-5.08-1729186"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3342,6 +3087,12 @@
 		(uuid "4afbe5c7-1ac3-4cef-8fac-8e3d18333f4e")
 	)
 	(junction
+		(at 31.75 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e631262-238d-462b-89da-b45a00775210")
+	)
+	(junction
 		(at 124.46 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3360,22 +3111,16 @@
 		(uuid "d3d73032-b4d5-4219-806d-03f6ec36b8eb")
 	)
 	(junction
-		(at 33.02 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e3baf459-07f2-4856-80c5-7fa9d79b8dc5")
-	)
-	(junction
-		(at 30.48 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e7590597-3c1c-4974-b310-22b59e2da8b1")
-	)
-	(junction
 		(at 121.92 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb42a95e-332f-4a16-828d-328f28f23548")
+	)
+	(junction
+		(at 63.5 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee529373-7b56-4b64-a46a-490c075b2923")
 	)
 	(junction
 		(at 116.84 88.9)
@@ -3425,6 +3170,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 93.98) (xy 250.19 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "021e3465-b57e-4b9d-846d-c4206e4b7d1e")
+	)
+	(wire
+		(pts
 			(xy 25.4 86.36) (xy 38.1 86.36)
 		)
 		(stroke
@@ -3435,7 +3190,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 48.26) (xy 127 48.26)
+			(xy 118.11 48.26) (xy 127 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3465,7 +3220,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 40.64) (xy 127 40.64)
+			(xy 118.11 40.64) (xy 127 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3495,6 +3250,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 115.57) (xy 250.19 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c41dbf5-db2e-4c8e-8fb0-ca9b5fa1b4b3")
+	)
+	(wire
+		(pts
 			(xy 63.5 38.1) (xy 63.5 40.64)
 		)
 		(stroke
@@ -3505,7 +3270,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 38.1) (xy 127 38.1)
+			(xy 118.11 38.1) (xy 127 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3535,6 +3300,26 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 118.11) (xy 250.19 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3074f525-484d-4c92-9eef-fc9bc505a902")
+	)
+	(wire
+		(pts
+			(xy 246.38 123.19) (xy 250.19 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3243bab7-bede-4c6b-a07d-3ff21bbd91f7")
+	)
+	(wire
+		(pts
 			(xy 119.38 86.36) (xy 175.26 86.36)
 		)
 		(stroke
@@ -3555,33 +3340,13 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 33.02) (xy 33.02 38.1)
+			(xy 26.67 38.1) (xy 31.75 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "495731cb-c9a5-4e5a-a624-70c90fe1ab57")
-	)
-	(wire
-		(pts
-			(xy 30.48 38.1) (xy 33.02 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b32e5d7-5e07-440d-8acd-e15c9920a9d0")
-	)
-	(wire
-		(pts
-			(xy 22.86 111.76) (xy 27.94 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f54bf0b-960b-469d-b1d9-4f76946f537f")
 	)
 	(wire
 		(pts
@@ -3592,16 +3357,6 @@
 			(type default)
 		)
 		(uuid "52824f5a-1a88-4a71-b381-e866d4b84a5a")
-	)
-	(wire
-		(pts
-			(xy 22.86 142.24) (xy 27.94 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "533e99cc-dfe3-499f-98d4-482b760f4e08")
 	)
 	(wire
 		(pts
@@ -3645,16 +3400,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 114.3) (xy 27.94 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e8111b4-a6b8-4bae-92bb-36f0206cb3a3")
-	)
-	(wire
-		(pts
 			(xy 111.76 106.68) (xy 127 106.68)
 		)
 		(stroke
@@ -3662,26 +3407,6 @@
 			(type default)
 		)
 		(uuid "6125b9ce-cbc6-4000-8809-69d99c3d897c")
-	)
-	(wire
-		(pts
-			(xy 30.48 63.5) (xy 63.5 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "612857c7-30cd-45a2-87ac-86de4f064ecd")
-	)
-	(wire
-		(pts
-			(xy 22.86 134.62) (xy 27.94 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6320d123-af0e-42df-8d45-eb3ef59032fe")
 	)
 	(wire
 		(pts
@@ -3695,7 +3420,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 53.34) (xy 127 53.34)
+			(xy 118.11 53.34) (xy 127 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3715,7 +3440,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 63.5) (xy 30.48 58.42)
+			(xy 57.15 63.5) (xy 63.5 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3725,7 +3450,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 50.8) (xy 127 50.8)
+			(xy 118.11 50.8) (xy 127 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3775,7 +3500,17 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 43.18) (xy 127 43.18)
+			(xy 246.38 125.73) (xy 250.19 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f7e2838-0f4d-4ce7-8c8d-a2672c03f905")
+	)
+	(wire
+		(pts
+			(xy 118.11 43.18) (xy 127 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3785,23 +3520,13 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 144.78) (xy 27.94 144.78)
+			(xy 246.38 107.95) (xy 250.19 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "78939207-be5b-4dd2-b9de-2d73ad95928f")
-	)
-	(wire
-		(pts
-			(xy 33.02 38.1) (xy 38.1 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7afead13-6bb8-4171-9583-268bdefe40eb")
+		(uuid "7bbdf981-0336-4974-8e71-787bc807ece4")
 	)
 	(wire
 		(pts
@@ -3845,13 +3570,23 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 63.5) (xy 30.48 63.5)
+			(xy 63.5 66.04) (xy 63.5 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "888164ee-56ff-4100-b0aa-d6b7582aa664")
+	)
+	(wire
+		(pts
+			(xy 246.38 110.49) (xy 250.19 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89f178e6-d63f-4c52-bcd5-60a8d9f95b3b")
 	)
 	(wire
 		(pts
@@ -3885,6 +3620,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 81.28) (xy 250.19 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "926d9160-4fbf-44f0-9139-962625d186df")
+	)
+	(wire
+		(pts
 			(xy 157.48 116.84) (xy 162.56 116.84)
 		)
 		(stroke
@@ -3895,6 +3640,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 96.52) (xy 250.19 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97e49c23-070e-4398-8e40-6f3393d8cb68")
+	)
+	(wire
+		(pts
 			(xy 157.48 109.22) (xy 162.56 109.22)
 		)
 		(stroke
@@ -3902,6 +3657,16 @@
 			(type default)
 		)
 		(uuid "98ea6f6d-d69e-407a-ad8b-60ef1927f5f3")
+	)
+	(wire
+		(pts
+			(xy 246.38 86.36) (xy 250.19 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ca81a11-f38d-43aa-80e3-1da583c9b9bf")
 	)
 	(wire
 		(pts
@@ -3995,13 +3760,23 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 124.46) (xy 27.94 124.46)
+			(xy 246.38 88.9) (xy 250.19 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c02035c3-c264-4f58-8645-ef95257ec118")
+		(uuid "bdd2e929-297d-434a-9402-d69e86b0a78b")
+	)
+	(wire
+		(pts
+			(xy 31.75 31.75) (xy 31.75 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c078cd09-e8a9-415c-8421-0e44b3bd6768")
 	)
 	(wire
 		(pts
@@ -4012,6 +3787,16 @@
 			(type default)
 		)
 		(uuid "c27c2fec-411a-40c5-a9ed-ea304d82d7ec")
+	)
+	(wire
+		(pts
+			(xy 246.38 91.44) (xy 250.19 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3b1b9cd-0e45-408e-811c-5f0420cefff4")
 	)
 	(wire
 		(pts
@@ -4035,6 +3820,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 38.1) (xy 38.1 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6725a45-09a3-4896-aefa-acdae4b656b4")
+	)
+	(wire
+		(pts
 			(xy 121.92 66.04) (xy 127 66.04)
 		)
 		(stroke
@@ -4042,6 +3837,16 @@
 			(type default)
 		)
 		(uuid "c876468b-89d5-4af8-8e78-ac7f5d5d6ffd")
+	)
+	(wire
+		(pts
+			(xy 246.38 83.82) (xy 250.19 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8e2777a-e58b-4d22-9351-a65c843c40d1")
 	)
 	(wire
 		(pts
@@ -4085,16 +3890,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 121.92) (xy 27.94 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d999324b-c723-4ed6-8572-b60271180004")
-	)
-	(wire
-		(pts
 			(xy 111.76 121.92) (xy 127 121.92)
 		)
 		(stroke
@@ -4102,6 +3897,16 @@
 			(type default)
 		)
 		(uuid "db76eff4-4b8e-4271-a52d-30b1a73304e6")
+	)
+	(wire
+		(pts
+			(xy 246.38 113.03) (xy 250.19 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbef8066-28d8-4255-a181-8e705d371ad2")
 	)
 	(wire
 		(pts
@@ -4115,7 +3920,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 55.88) (xy 127 55.88)
+			(xy 118.11 55.88) (xy 127 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4135,17 +3940,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 132.08) (xy 27.94 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9adfbc9-a6e9-44e9-9d7d-5bb3331279de")
-	)
-	(wire
-		(pts
-			(xy 121.92 45.72) (xy 127 45.72)
+			(xy 118.11 45.72) (xy 127 45.72)
 		)
 		(stroke
 			(width 0)
@@ -4162,6 +3957,26 @@
 			(type default)
 		)
 		(uuid "eea22a07-e990-498c-a58a-4608d7731289")
+	)
+	(wire
+		(pts
+			(xy 246.38 99.06) (xy 250.19 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1131a05-c1ee-46fa-b9f7-ed24239f535d")
+	)
+	(wire
+		(pts
+			(xy 246.38 120.65) (xy 250.19 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f13d2e0c-61d8-4aec-a9fc-d9dada5b8e31")
 	)
 	(wire
 		(pts
@@ -4212,6 +4027,25 @@
 			(type default)
 		)
 		(uuid "ffe3a319-999d-456b-84e0-1a1cb4c40d67")
+	)
+	(text_box "Ground Terminals"
+		(exclude_from_sim no)
+		(at 229.87 71.12 0)
+		(size 35.56 60.96)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "07516da4-558f-4493-be6c-a52a9441698a")
 	)
 	(label "SDA"
 		(at 162.56 91.44 0)
@@ -4269,7 +4103,7 @@
 		(uuid "6b9c95e5-ff16-4e47-bb97-4503e598c127")
 	)
 	(label "GND"
-		(at 35.56 63.5 0)
+		(at 62.23 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4347,16 +4181,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 132.08 270)
+		(at 250.19 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "17eaa6b4-52d2-49f7-a376-e85b9d52d4f3")
-		(property "Reference" "#PWR09"
-			(at 16.51 132.08 0)
+		(uuid "0f12d74e-b2a3-442d-9837-e9622323aa8c")
+		(property "Reference" "#PWR016"
+			(at 256.54 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4365,7 +4199,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 132.0799 90)
+			(at 254 118.1099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4374,7 +4208,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 132.08 0)
+			(at 250.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4383,7 +4217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 132.08 0)
+			(at 250.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,7 +4226,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 132.08 0)
+			(at 250.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4401,12 +4235,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "193a2cd2-2e63-46bb-bfaf-d7beea28f59c")
+			(uuid "e83f7bb8-c2c4-4260-aa17-8731589bbd8c")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR09")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -4438,7 +4272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "00_General:MCP23017-E-SO"
+		(property "Footprint" "00_general:MCP23017-E-SO"
 			(at 153.67 133.02 0)
 			(effects
 				(font
@@ -4514,6 +4348,123 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 127 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -4612,7 +4563,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 30.48 58.42 0)
+		(at 57.15 63.5 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4621,7 +4572,7 @@
 		(fields_autoplaced yes)
 		(uuid "18836f9b-3fd8-4abe-82fd-d23c7c6ac19c")
 		(property "Reference" "#FLG02"
-			(at 30.48 56.515 0)
+			(at 55.245 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4630,7 +4581,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 30.48 53.34 0)
+			(at 52.07 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4638,7 +4589,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 58.42 0)
+			(at 57.15 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4647,7 +4598,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 58.42 0)
+			(at 57.15 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4656,7 +4607,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 30.48 58.42 0)
+			(at 57.15 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4721,7 +4672,124 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 20.32 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
 			(at 20.32 189.23 0)
 			(effects
 				(font
@@ -4784,7 +4852,124 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 20.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
 			(at 20.32 173.99 0)
 			(effects
 				(font
@@ -4821,7 +5006,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Screw-8P-5.08-1729186"
+		(property "Value" "8 Position Screw Terminal"
 			(at 179.07 45.7201 0)
 			(effects
 				(font
@@ -4830,7 +5015,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "00_Connectors:Screw-8P-5.08-1729186"
+		(property "Footprint" "00_connectors:PHOENIX_1869279"
 			(at 179.07 -39.04 0)
 			(effects
 				(font
@@ -4840,7 +5025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.phoenixcontact.com/de/produkte/1729186/pdf"
+		(property "Datasheet" ""
 			(at 179.07 -139.04 0)
 			(effects
 				(font
@@ -4909,6 +5094,123 @@
 				(hide yes)
 			)
 		)
+		(property "Availability" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 162.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "3955a424-268b-4688-ab0f-19c28dc705e1")
 		)
@@ -4943,6 +5245,330 @@
 		)
 	)
 	(symbol
+		(lib_id "00_Connectors:Screw-8P-5.08-1729186")
+		(at 246.38 81.28 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2f35355d-8d67-4dba-80ca-e4e1e8ed0044")
+		(property "Reference" "J7"
+			(at 233.68 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "8 Position Screw Terminal"
+			(at 265.176 77.216 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "00_connectors:PHOENIX_1869279"
+			(at 229.87 176.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 276.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 8, Number of rows: 1, Number of positions per row: 8, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "10.15"
+			(at 229.87 476.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "651-1729186"
+			(at 229.87 576.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729186?qs=GFUSqQMLmmmIqo9X897hPA%3D%3D"
+			(at 229.87 676.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Phoenix Contact"
+			(at 229.87 776.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1729186"
+			(at 229.87 876.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 246.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "617bbbab-394b-40b9-9d9b-b3e964cb4dd9")
+		)
+		(pin "1"
+			(uuid "e50cbaab-1a93-4ff2-9031-054db66f71c2")
+		)
+		(pin "2"
+			(uuid "b4925a78-73bf-4be7-8fb8-0edeea761394")
+		)
+		(pin "3"
+			(uuid "6be9e403-3c2e-4dac-92cd-8a7dc0868659")
+		)
+		(pin "8"
+			(uuid "f19959a1-28b5-4811-a47b-58710b54ed9b")
+		)
+		(pin "7"
+			(uuid "b3f9d3b9-41ef-420a-b3f4-c0b8bb75768e")
+		)
+		(pin "4"
+			(uuid "e5b6517a-1096-40e0-b95b-71946885443c")
+		)
+		(pin "5"
+			(uuid "f5ff72b0-d70a-473c-bbd6-37daa312f259")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 107.95 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "301f4705-de1c-4242-9b6f-67b6ead184c4")
+		(property "Reference" "#PWR012"
+			(at 256.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "10ae9ac2-7629-4634-8fe8-173e77b8c9e8")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SamacSys_Parts:MCP23017-E_SO")
 		(at 127 106.68 0)
 		(unit 1)
@@ -4968,7 +5594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "00_General:MCP23017-E-SO"
+		(property "Footprint" "00_general:MCP23017-E-SO"
 			(at 153.67 201.6 0)
 			(effects
 				(font
@@ -5044,6 +5670,123 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 127 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5141,6 +5884,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 250.19 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3de9ccbb-206d-4833-bc52-c470f54650b9")
+		(property "Reference" "#PWR014"
+			(at 256.54 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3700a55f-efe6-467d-8d3a-b2ff171d4f3a")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "00_Connectors:Screw-8P-5.08-1729186")
 		(at 111.76 106.68 0)
 		(mirror y)
@@ -5159,7 +5969,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Screw-8P-5.08-1729186"
+		(property "Value" "8 Position Screw Terminal"
 			(at 95.25 116.8399 0)
 			(effects
 				(font
@@ -5168,7 +5978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "00_Connectors:Screw-8P-5.08-1729186"
+		(property "Footprint" "00_connectors:PHOENIX_1869279"
 			(at 95.25 201.6 0)
 			(effects
 				(font
@@ -5178,7 +5988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.phoenixcontact.com/de/produkte/1729186/pdf"
+		(property "Datasheet" ""
 			(at 95.25 301.6 0)
 			(effects
 				(font
@@ -5247,6 +6057,123 @@
 				(hide yes)
 			)
 		)
+		(property "Availability" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 111.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "fc9419d7-9147-4c44-9448-e1b3fa45d5c3")
 		)
@@ -5282,16 +6209,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 124.46 270)
+		(at 250.19 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "473aa13e-5b56-42f1-8a57-dac9f8958abd")
-		(property "Reference" "#PWR08"
-			(at 16.51 124.46 0)
+		(uuid "4bc80fc4-ffa9-4921-84b1-1b3c650759e6")
+		(property "Reference" "#PWR019"
+			(at 256.54 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5300,7 +6227,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 124.4599 90)
+			(at 254 125.7299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5309,7 +6236,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 124.46 0)
+			(at 250.19 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5318,7 +6245,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 124.46 0)
+			(at 250.19 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5327,7 +6254,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 124.46 0)
+			(at 250.19 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5336,213 +6263,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e86b8048-ccc2-4dac-8d7d-c828df0951e8")
+			(uuid "b47c77b2-7060-498e-9610-826c0ef6c69b")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "00_Connectors:Screw-2P-5.08-1729128")
-		(at 35.56 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cd16807-95cb-4579-85c9-58244fe1e399")
-		(property "Reference" "J10"
-			(at 41.91 142.2399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw-2P-5.08-1729128"
-			(at 41.91 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "00_Connectors:Screw-2P-5.08-1729128"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Phoenix Contact"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "10.15mm"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=eda"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "28.07.2023"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=snap"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1729128"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=555380&manufacturer=Phoenix Contact&part_name=1729128&search_term=1729128"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nPCB Terminal Screw 5.08mm 16AWG 400V 13.5A 2 Position COMBICON MKDSN Series | Phoenix Contact 1729128\n"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Phoenix Contact"
-			(at 35.56 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fca5d9c3-53b8-464b-b0af-41dfa1a31eb5")
-		)
-		(pin "1"
-			(uuid "e492cb20-40f8-4217-b729-dacb4d548b75")
-		)
-		(instances
-			(project "io-expander-x2"
-				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "J10")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -5550,16 +6276,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 142.24 270)
+		(at 250.19 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5b423df8-b243-436c-b864-04993663c92e")
-		(property "Reference" "#PWR011"
-			(at 16.51 142.24 0)
+		(uuid "57354441-4b08-4585-af39-7dbe4587c76d")
+		(property "Reference" "#PWR010"
+			(at 256.54 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5568,7 +6294,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 142.2399 90)
+			(at 254 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5577,7 +6303,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 142.24 0)
+			(at 250.19 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5586,7 +6312,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 142.24 0)
+			(at 250.19 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5595,7 +6321,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 142.24 0)
+			(at 250.19 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5604,12 +6330,79 @@
 			)
 		)
 		(pin "1"
-			(uuid "bcef0637-54b6-441e-8225-30a936e6a749")
+			(uuid "8cc00885-d535-47b5-b5f2-232640139350")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR011")
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 83.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59dd08cb-99a0-49c7-afa3-f0df91ecffe5")
+		(property "Reference" "#PWR?"
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "869fdd56-21bd-4433-a653-a5ac5d487122")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -5660,7 +6453,124 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 20.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
 			(at 20.32 179.07 0)
 			(effects
 				(font
@@ -5723,7 +6633,124 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 20.32 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
 			(at 20.32 184.15 0)
 			(effects
 				(font
@@ -5769,7 +6796,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "00_Connectors:QWIIC"
+		(property "Footprint" "00_connectors:QWIIC"
 			(at 172.212 96.012 0)
 			(effects
 				(font
@@ -5790,6 +6817,123 @@
 			)
 		)
 		(property "Description" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 175.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
 			(at 175.26 86.36 0)
 			(effects
 				(font
@@ -5820,45 +6964,35 @@
 		)
 	)
 	(symbol
-		(lib_id "00_Connectors:Screw-2P-5.08-1729128")
-		(at 35.56 111.76 0)
+		(lib_id "power:GND")
+		(at 250.19 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "768855b4-8c2d-4186-9f69-5615584b0d29")
-		(property "Reference" "J7"
-			(at 41.91 111.7599 0)
+		(uuid "761dee6d-419e-4976-be12-12d4d6164179")
+		(property "Reference" "#PWR017"
+			(at 256.54 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw-2P-5.08-1729128"
-			(at 41.91 114.2999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "00_Connectors:Screw-2P-5.08-1729128"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 35.56 111.76 0)
+		(property "Value" "GND"
+			(at 254 120.6499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5866,8 +7000,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 35.56 111.76 0)
+		(property "Datasheet" ""
+			(at 250.19 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5875,347 +7009,22 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Phoenix Contact"
-			(at 35.56 111.76 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "10.15mm"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=eda"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "28.07.2023"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=snap"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1729128"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=555380&manufacturer=Phoenix Contact&part_name=1729128&search_term=1729128"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nPCB Terminal Screw 5.08mm 16AWG 400V 13.5A 2 Position COMBICON MKDSN Series | Phoenix Contact 1729128\n"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Phoenix Contact"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "81272953-a7d1-4b19-956d-ea2a50d20a10")
 		)
 		(pin "1"
-			(uuid "6365b669-2ace-45f6-add8-55ae697e0824")
-		)
-		(instances
-			(project ""
-				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "00_Connectors:Screw-2P-5.08-1729128")
-		(at 35.56 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "76c98a99-7b61-4a48-ab50-94494d5f3789")
-		(property "Reference" "J9"
-			(at 41.91 132.0799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw-2P-5.08-1729128"
-			(at 41.91 134.6199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "00_Connectors:Screw-2P-5.08-1729128"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Phoenix Contact"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "10.15mm"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=eda"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "28.07.2023"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=snap"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1729128"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=555380&manufacturer=Phoenix Contact&part_name=1729128&search_term=1729128"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nPCB Terminal Screw 5.08mm 16AWG 400V 13.5A 2 Position COMBICON MKDSN Series | Phoenix Contact 1729128\n"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Phoenix Contact"
-			(at 35.56 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "51d97b66-49a0-45f9-925e-19008df3b8e6")
-		)
-		(pin "1"
-			(uuid "805d2244-72d0-458e-a3d7-99c23fe1fe72")
+			(uuid "e19d46ce-6006-440f-9fc5-493acf4a1ba8")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "J9")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -6288,6 +7097,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 250.19 110.49 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f630b61-979a-4396-a909-862abd4825db")
+		(property "Reference" "#PWR013"
+			(at 256.54 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70ea4414-40c9-42ae-96a2-146e25160cc9")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "00_General:MF-USHT010KX-2")
 		(at 38.1 38.1 0)
 		(unit 1)
@@ -6313,7 +7189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "00_General:FUSC3226X85N"
+		(property "Footprint" "00_general:FUSC3226X85N"
 			(at 52.07 134.29 0)
 			(effects
 				(font
@@ -6392,6 +7268,123 @@
 				(hide yes)
 			)
 		)
+		(property "Availability" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 38.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "52b7ac3a-fa2b-4b17-a983-3685bbcd096a")
 		)
@@ -6409,7 +7402,7 @@
 	)
 	(symbol
 		(lib_id "00_Connectors:Screw-8P-5.08-1729186")
-		(at 121.92 38.1 0)
+		(at 118.11 38.1 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6418,7 +7411,7 @@
 		(dnp no)
 		(uuid "82372e7b-41e3-4671-994a-e0a382aa305d")
 		(property "Reference" "J3"
-			(at 105.41 45.7199 0)
+			(at 101.6 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6426,8 +7419,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Screw-8P-5.08-1729186"
-			(at 105.41 48.2599 0)
+		(property "Value" "8 Position Screw Terminal"
+			(at 101.6 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6435,8 +7428,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "00_Connectors:Screw-8P-5.08-1729186"
-			(at 105.41 133.02 0)
+		(property "Footprint" "00_connectors:PHOENIX_1869279"
+			(at 101.6 133.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6445,8 +7438,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.phoenixcontact.com/de/produkte/1729186/pdf"
-			(at 105.41 233.02 0)
+		(property "Datasheet" ""
+			(at 101.6 233.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6456,7 +7449,7 @@
 			)
 		)
 		(property "Description" "PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 8, Number of rows: 1, Number of positions per row: 8, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"
-			(at 121.92 38.1 0)
+			(at 118.11 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6465,7 +7458,7 @@
 			)
 		)
 		(property "Height" "10.15"
-			(at 105.41 433.02 0)
+			(at 101.6 433.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6475,7 +7468,7 @@
 			)
 		)
 		(property "Mouser Part Number" "651-1729186"
-			(at 105.41 533.02 0)
+			(at 101.6 533.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6485,7 +7478,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729186?qs=GFUSqQMLmmmIqo9X897hPA%3D%3D"
-			(at 105.41 633.02 0)
+			(at 101.6 633.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6495,7 +7488,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Phoenix Contact"
-			(at 105.41 733.02 0)
+			(at 101.6 733.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6505,12 +7498,129 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1729186"
-			(at 105.41 833.02 0)
+			(at 101.6 833.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6548,6 +7658,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 250.19 86.36 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85c20d2b-84bd-4a61-81c3-d427c3651f5c")
+		(property "Reference" "#PWR06"
+			(at 256.54 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "869fdd56-21bd-4433-a653-a5ac5d487123")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "QWIIC_1")
 		(lib_id "00_Connectors:QWIIC")
 		(at 106.68 86.36 0)
@@ -6576,7 +7753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "00_Connectors:QWIIC"
+		(property "Footprint" "00_connectors:QWIIC"
 			(at 109.728 96.012 0)
 			(effects
 				(font
@@ -6597,6 +7774,123 @@
 			)
 		)
 		(property "Description" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
 			(at 106.68 86.36 0)
 			(effects
 				(font
@@ -6645,7 +7939,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Screw-8P-5.08-1729186"
+		(property "Value" "8 Position Screw Terminal"
 			(at 179.07 114.3001 0)
 			(effects
 				(font
@@ -6654,7 +7948,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "00_Connectors:Screw-8P-5.08-1729186"
+		(property "Footprint" "00_connectors:PHOENIX_1869279"
 			(at 179.07 29.54 0)
 			(effects
 				(font
@@ -6664,7 +7958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.phoenixcontact.com/de/produkte/1729186/pdf"
+		(property "Datasheet" ""
 			(at 179.07 -70.46 0)
 			(effects
 				(font
@@ -6733,6 +8027,123 @@
 				(hide yes)
 			)
 		)
+		(property "Availability" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 162.56 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "d40b2832-3d3b-4ea5-9f64-4f4d59f86aac")
 		)
@@ -6761,73 +8172,6 @@
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
 					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 22.86 114.3 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8959209a-ae15-4aad-ad31-df65c83de84d")
-		(property "Reference" "#PWR06"
-			(at 16.51 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 19.05 114.2999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe7c84bd-6885-46d6-bfb3-2ba507000603")
-		)
-		(instances
-			(project "io-expander-x2"
-				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -6888,6 +8232,123 @@
 				(hide yes)
 			)
 		)
+		(property "Availability" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd8990a8-a01c-42ed-8e53-5beaaeab213a")
 		)
@@ -6898,6 +8359,140 @@
 			(project ""
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2846192-5ee0-4409-a8a5-4bb458cde90b")
+		(property "Reference" "#PWR09"
+			(at 256.54 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 93.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea1dcae1-dbc1-4f9d-8f14-77d0d70dff93")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 88.9 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a3c3f2cd-c5a6-424b-8266-038dfe562d88")
+		(property "Reference" "#PWR07"
+			(at 256.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 88.8999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "21b628a0-98be-4768-af88-e0ffef97af60")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -6949,6 +8544,123 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
 			(at 63.5 44.45 0)
 			(effects
 				(font
@@ -7027,6 +8739,123 @@
 				(hide yes)
 			)
 		)
+		(property "Availability" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88e562d8-d563-40d3-947a-9846ffa36991")
 		)
@@ -7044,16 +8873,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 144.78 270)
+		(at 250.19 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ad2a3a87-2c39-47af-a6b0-8e578378aba2")
-		(property "Reference" "#PWR012"
-			(at 16.51 144.78 0)
+		(uuid "b1a1a4f0-135f-4793-a127-18a9c2811420")
+		(property "Reference" "#PWR05"
+			(at 256.54 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7062,7 +8891,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 144.7799 90)
+			(at 254 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7071,7 +8900,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 144.78 0)
+			(at 250.19 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7080,7 +8909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 144.78 0)
+			(at 250.19 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7089,7 +8918,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 144.78 0)
+			(at 250.19 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7098,12 +8927,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6d93ec67-45bb-49af-9d2d-7b1abf77523f")
+			(uuid "3a4dca8d-c95c-4727-9ddf-9beb386f48fc")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR012")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -7164,6 +8993,123 @@
 				(hide yes)
 			)
 		)
+		(property "Availability" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f2e958a-d1c3-4364-8d3f-3b9634570637")
 		)
@@ -7181,7 +9127,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 33.02 33.02 0)
+		(at 26.67 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7190,7 +9136,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc1280ca-8945-4c2d-9f44-149b29b341cc")
 		(property "Reference" "#FLG01"
-			(at 33.02 31.115 0)
+			(at 24.765 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7199,7 +9145,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 33.02 27.94 0)
+			(at 21.59 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7207,7 +9153,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 33.02 0)
+			(at 26.67 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7216,7 +9162,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 33.02 0)
+			(at 26.67 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7225,7 +9171,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 33.02 33.02 0)
+			(at 26.67 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7246,17 +9192,17 @@
 		)
 	)
 	(symbol
-		(lib_id "00_Connectors:Screw-2P-5.08-1729128")
-		(at 35.56 121.92 0)
+		(lib_id "00_Connectors:Screw-8P-5.08-1729186")
+		(at 246.38 107.95 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c83ba3b4-638d-4fec-9b9a-0251ae51662d")
+		(uuid "c2c2d033-c437-4883-9670-cb38fc9fbaff")
 		(property "Reference" "J8"
-			(at 41.91 121.9199 0)
+			(at 233.934 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7264,8 +9210,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Screw-2P-5.08-1729128"
-			(at 41.91 124.4599 0)
+		(property "Value" "8 Position Screw Terminal"
+			(at 262.382 103.886 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7273,18 +9219,28 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "00_Connectors:Screw-2P-5.08-1729128"
-			(at 35.56 121.92 0)
+		(property "Footprint" "00_connectors:PHOENIX_1869279"
+			(at 229.87 202.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 121.92 0)
+			(at 229.87 302.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 8, Number of rows: 1, Number of positions per row: 8, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7292,8 +9248,58 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 35.56 121.92 0)
+		(property "Height" "10.15"
+			(at 229.87 502.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "651-1729186"
+			(at 229.87 602.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729186?qs=GFUSqQMLmmmIqo9X897hPA%3D%3D"
+			(at 229.87 702.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Phoenix Contact"
+			(at 229.87 802.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1729186"
+			(at 229.87 902.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7301,141 +9307,137 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Phoenix Contact"
-			(at 35.56 121.92 0)
+		(property "Check_prices" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "10.15mm"
-			(at 35.56 121.92 0)
+		(property "Description_1" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
-			(at 35.56 121.92 0)
+		(property "MANUFACTURER" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Price" "None"
-			(at 35.56 121.92 0)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=eda"
-			(at 35.56 121.92 0)
+		(property "MF" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 35.56 121.92 0)
+		(property "MP" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "28.07.2023"
-			(at 35.56 121.92 0)
+		(property "PARTREV" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1729128/Phoenix+Contact/view-part/?ref=snap"
-			(at 35.56 121.92 0)
+		(property "Package" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MP" "1729128"
-			(at 35.56 121.92 0)
+		(property "Price" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=555380&manufacturer=Phoenix Contact&part_name=1729128&search_term=1729128"
-			(at 35.56 121.92 0)
+		(property "Purchase-URL" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Description_1" "\nPCB Terminal Screw 5.08mm 16AWG 400V 13.5A 2 Position COMBICON MKDSN Series | Phoenix Contact 1729128\n"
-			(at 35.56 121.92 0)
+		(property "STANDARD" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Availability" "In Stock"
-			(at 35.56 121.92 0)
+		(property "SnapEDA_Link" ""
+			(at 246.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Phoenix Contact"
-			(at 35.56 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7a1ae73d-3851-417b-8ced-14f22199132d")
+		(pin "6"
+			(uuid "00bac85a-ea56-41fb-aaef-5a14631a90d9")
 		)
 		(pin "1"
-			(uuid "c00d5e60-6999-4606-a580-ab8c3e43ccaa")
+			(uuid "be494233-f23b-4cee-bf4a-ed2a052ea15c")
+		)
+		(pin "2"
+			(uuid "d808db4c-cbca-4b30-bc04-defc47c0bda9")
+		)
+		(pin "3"
+			(uuid "b735c601-70c3-4030-b4ae-d5fb6d7c8dca")
+		)
+		(pin "8"
+			(uuid "fe15c469-61ec-45ab-995f-d97e33c329ca")
+		)
+		(pin "7"
+			(uuid "4763ef3a-b90c-4e52-a8ab-8dc3de684426")
+		)
+		(pin "4"
+			(uuid "f6322267-4b3a-4e99-9705-dc0c60a97803")
+		)
+		(pin "5"
+			(uuid "c3c30f92-67e1-4be6-a564-edae36fd4510")
 		)
 		(instances
 			(project "io-expander-x2"
@@ -7448,16 +9450,15 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 30.48 38.1 90)
+		(at 31.75 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d477cde4-731f-45c3-a388-48badc461fff")
 		(property "Reference" "#PWR03"
-			(at 34.29 38.1 0)
+			(at 31.75 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7466,7 +9467,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 26.67 38.0999 90)
+			(at 31.7501 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7475,7 +9476,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 38.1 0)
+			(at 31.75 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7484,7 +9485,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 38.1 0)
+			(at 31.75 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7493,7 +9494,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 30.48 38.1 0)
+			(at 31.75 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7515,16 +9516,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 134.62 270)
+		(at 250.19 115.57 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "de6eb5d7-8010-4622-af46-9c93a30fb1cd")
-		(property "Reference" "#PWR010"
-			(at 16.51 134.62 0)
+		(uuid "d8faced5-4997-470e-9920-a13a35ef663e")
+		(property "Reference" "#PWR015"
+			(at 256.54 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7533,7 +9534,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 134.6199 90)
+			(at 254 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7542,7 +9543,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 134.62 0)
+			(at 250.19 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7551,7 +9552,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 134.62 0)
+			(at 250.19 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7560,7 +9561,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 134.62 0)
+			(at 250.19 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7569,12 +9570,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7da47b99-ceaa-4c0d-aeb4-c2c671a56ea2")
+			(uuid "d6fb3eff-ef51-4064-a5a1-9a2dd970e525")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR010")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -7582,16 +9583,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 121.92 270)
+		(at 250.19 123.19 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e8b74b71-0f4a-4b5b-a0de-7b90d4bd44d7")
-		(property "Reference" "#PWR07"
-			(at 16.51 121.92 0)
+		(uuid "e0a7ef4e-215a-4dc5-88f5-cddb6a4c7d7d")
+		(property "Reference" "#PWR018"
+			(at 256.54 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7600,7 +9601,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 121.9199 90)
+			(at 254 123.1899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7609,7 +9610,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 121.92 0)
+			(at 250.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7618,7 +9619,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 121.92 0)
+			(at 250.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7627,7 +9628,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 121.92 0)
+			(at 250.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7636,12 +9637,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "fb11eb25-7ec2-49ac-b729-840a851f81c0")
+			(uuid "e7812255-428b-494f-a812-ff23acbb0046")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR07")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -7649,7 +9650,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 27.94 63.5 270)
+		(at 63.5 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7657,7 +9658,7 @@
 		(dnp no)
 		(uuid "ea252df9-5193-45d3-bee8-934447835f96")
 		(property "Reference" "#PWR04"
-			(at 21.59 63.5 0)
+			(at 63.5 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7666,7 +9667,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 24.13 63.4999 90)
+			(at 63.4999 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7675,7 +9676,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 63.5 0)
+			(at 63.5 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7684,7 +9685,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 63.5 0)
+			(at 63.5 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7693,7 +9694,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 27.94 63.5 0)
+			(at 63.5 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7708,6 +9709,73 @@
 			(project ""
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 91.44 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eaa7b25a-0889-4dcb-9add-a0a4bb916092")
+		(property "Reference" "#PWR08"
+			(at 256.54 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 91.4399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "81ed7dca-d03a-42c6-9445-5db9549dfc11")
+		)
+		(instances
+			(project "io-expander-x2"
+				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -7781,16 +9849,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 111.76 270)
+		(at 250.19 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f3a0c37b-7ddf-43df-81e3-9550122408d0")
-		(property "Reference" "#PWR05"
-			(at 16.51 111.76 0)
+		(uuid "ef126206-d3ed-4d80-b9ad-7c5df41c9e97")
+		(property "Reference" "#PWR011"
+			(at 256.54 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7799,7 +9867,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 111.7599 90)
+			(at 254 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7808,7 +9876,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 111.76 0)
+			(at 250.19 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7817,7 +9885,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 111.76 0)
+			(at 250.19 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7826,7 +9894,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 111.76 0)
+			(at 250.19 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7835,12 +9903,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a6c07079-ce65-48bc-97cf-cd7ab35e3aa1")
+			(uuid "6d456c8d-c628-4327-9206-4e15056f4244")
 		)
 		(instances
 			(project "io-expander-x2"
 				(path "/42fd438b-6d49-4666-ae11-20ce1683aad5"
-					(reference "#PWR05")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
